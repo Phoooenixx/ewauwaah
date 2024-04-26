@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+    <title>LOLA LUXURY HAIRS</title>
+</head>
+<body>
+    <div id="person name" style="margin-left: 570px;">
+    <h1>WIG_PIRE</h1>
+    <h3><i>ewaoluwaadedipe@gmail.com</i></h3>
+    <style>
+        body{
+            background-color:darkolivegreen;
+            color:silver;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    </style>
+</div>
+<div id="passport">
+    <img src="C:\Users\user\Pictures\Screenshot_20190928-005721_1569844838418_1569845262982.png" alt="passport photograph" width="250" height="250">
+    </div>
+    <div id="pagelinks">
+    <h1>Home</h1>
+    <ul>
+        <li>Home</li>
+        <li>Publication</li>
+        <li>Blog</li>
+        <li>Text</li>
+        <li>Contact</li>
+    </ul>
+    <h1>Bio</h1>
+    <p>
+        Everyday is a good hair day, no bad hair days here:
+    </p>
+    <h1>publication</h1>
+    <ul>
+        <li>papers</li>
+        <li>conferences</li>
+        <li>books and books dopler</li>
+    </ul>
+</body>
